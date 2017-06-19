@@ -12,6 +12,10 @@ Red: #c5283d
 
 Purple: 930e67
 
+Dark Gray: #596058
+
+Light Gray: #a4a8a3
+
 Black: #222222
 
 White: #e3dfff
